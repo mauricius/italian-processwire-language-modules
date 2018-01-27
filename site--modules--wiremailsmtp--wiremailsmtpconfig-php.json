@@ -1,0 +1,177 @@
+{
+    "file": "site\/modules\/WireMailSmtp\/WireMailSmtpConfig.php",
+    "textdomain": "site--modules--wiremailsmtp--wiremailsmtpconfig-php",
+    "translations": {
+        "ab1201c834491160ea1413a20b26195d": {
+            "text": "Nome Host"
+        },
+        "2c21e82be8998b560f60b735a15d54b0": {
+            "text": "Nome host di questo computer"
+        },
+        "2e97c522fea3ff212e662a50235bfdf5": {
+            "text": "Server SMTP"
+        },
+        "4cb4576dec4860a9ea6bc34a6f4ff1a6": {
+            "text": "Hostname SMTP"
+        },
+        "0b7634f91008948e5479b6334cf7f149": {
+            "text": "Imposta l'host name del server SMTP a cui vuoi inoltrare i messaggi"
+        },
+        "63ede2e53d7a100acb8f97a618bb70c8": {
+            "text": "Porta SMTP"
+        },
+        "febd57917f11e69d4227716216da4b48": {
+            "text": "Imposta la porta TCP del sever SMTP al quale vuoi connetterti"
+        },
+        "08955d268af03fd493ab819b45a4e1a3": {
+            "text": "Default `25`\\nDefault per TLS \/ SSL: `587` o `465`"
+        },
+        "1d6f958c00db4b0a586ee8095fd2f876": {
+            "text": "Utente SMTP"
+        },
+        "ed04743412d79470de54907153226675": {
+            "text": "Imposta questa variabile con il nome utente quando il server SMTP richiede l'autenticazione"
+        },
+        "13dfab74d4f99be29bd6c7142135b34e": {
+            "text": "Password SMTP"
+        },
+        "8f1143ace36a7b9abb88412454f43985": {
+            "text": "Imposta questa variabile con la password quando il server SMTP richiede l'autenticazione"
+        },
+        "2dda2a912d6145a40e4c1e9b1d8850bb": {
+            "text": "<b>Nota:<\/b> la password non \u00e8 memorizzata criptata nel database."
+        },
+        "8b261a6b2acef1b54b78a6f77f8a77d1": {
+            "text": "Usa STARTTLS"
+        },
+        "a3adfcfb98656935b664e4b049b818f3": {
+            "text": "Controlla se la connessione al server SMTP deve essere criptata dopo che la connessione \u00e8 stata stabilita attraverso il protocollo TLS."
+        },
+        "29efc1c532964b2a4e4f4cf9dbd36019": {
+            "text": "Usa SSL"
+        },
+        "4ab09d571d7dd5ae37e6640bc43a3d19": {
+            "text": "Seleziona se il server SMTP richiede la connessione sicura usando il protocollo SSL."
+        },
+        "c925861d77103073edc1c93b9cbbbb15": {
+            "text": "Certificato SMTP"
+        },
+        "ac6933ac7b6378c0dc2e71d1641aa6d7": {
+            "text": "Permetti certificati self-signed"
+        },
+        "bed980f2a22895d50c1d61d41693acef": {
+            "text": "Per PHP >= 5.6"
+        },
+        "f892d0f6074b220878a9307fd5c58a34": {
+            "text": "Cancella password?"
+        },
+        "7278dda1db3978af612e7cc3932db4b9": {
+            "text": "Controlla e salva il form per cancellare la password salvata."
+        },
+        "9079dd503d1817689e5f50a8330f9fde": {
+            "text": "SMTP Avanzato"
+        },
+        "25fa984a88e624730833218b24c87122": {
+            "text": "Meccanismo di autenticazione"
+        },
+        "a081f59757412d93b9ef469b73a97360": {
+            "text": "Forza l'utilizzo di uno specifico meccanismo di autenticazione."
+        },
+        "de33441b42e378a7557576547bdb58d9": {
+            "text": "Default: vuoto"
+        },
+        "816d27f792d4ae79171642305766e6b0": {
+            "text": "Imposta questa variabile quando il server SMTP richiede autenticazione e se sono supportati pi\u00f9 authentication realm"
+        },
+        "92d3a56e45f42d8178a4d201b14d6a1c": {
+            "text": "="
+        },
+        "0f8f0fafc9186f8f7cecbddbca79fb16": {
+            "text": "Definisci la workstation cliente quando il server SMTP richiede l'autenticazione identificando il nome della workstation di origine."
+        },
+        "8aace3ec18d83874d22850b7eee93c7d": {
+            "text": "Mittente"
+        },
+        "1cf17732a91f53ee1c69c9ac21297473": {
+            "text": "Indirizzo email mittente"
+        },
+        "82ff9bcec63169ee7c8ee453e3a7ee90": {
+            "text": "Nome mittente"
+        },
+        "d24c35b42f39a3bd791b9c00ee8b4471": {
+            "text": "Indirizzo email di risposta mittente"
+        },
+        "7572efb3327dd1a8d66e6ee26bc53c6d": {
+            "text": "Se lasciato vuoto verr\u00e0 utilizzato l'indirizzo email del mittente."
+        },
+        "f782bea080f23f26388fc0c31198ba5d": {
+            "text": "Indirizzo email errori"
+        },
+        "0fc8a0a16cb261caec8f956c29ad0770": {
+            "text": "Firma mittente (testo)"
+        },
+        "680cc2557cc98eb0843d019c09ca0c53": {
+            "text": "Come dati di contatto e\/o avvisi di confidenzialit\u00e0."
+        },
+        "352fbd2be79a5e97bef1a8751161f8b3": {
+            "text": "Firma mittente (HTML)"
+        },
+        "81a800f925820cceafff684f113a23ae": {
+            "text": "Invia firma mittente"
+        },
+        "23c3f2fd3d66f904773cb106c764c48f": {
+            "text": "Se la firma deve essere inviata di default (pu\u00f2 essere sovrascritto dalle API)"
+        },
+        "68a1d681b6ae5c87a706ddc06c10a2e9": {
+            "text": "Solo quando chiamato esplicitamente via API"
+        },
+        "22abcb4b061170b46eac57909b742bf9": {
+            "text": "Automaticamente quando `da` = indirizzo email mittente"
+        },
+        "e29bcf905316a0d66f04d3930ce1d9a1": {
+            "text": "Automaticamente con _ogni_ messaggio"
+        },
+        "9b6545e4cea9b4ad4979d41bb9170e2b": {
+            "text": "Avanzate"
+        },
+        "face90ece5ed0f17f714291d2373bf0a": {
+            "text": "Destinatari validi"
+        },
+        "353dc6a14c7cf77cac454a651ce39d65": {
+            "text": "Elenco di indirizzi email che possono ricevere messaggi."
+        },
+        "6e70360727b9145c5aef4cf0b2c48109": {
+            "text": "Un email per linea"
+        },
+        "3e7a50d5bd475058afcea59b17e16c00": {
+            "text": "Headers extra"
+        },
+        "abdb9c12742f3c4a2061122e77b86eb8": {
+            "text": "Definisci header meta personalizzati"
+        },
+        "802d09970018809abaa5aa487760b111": {
+            "text": "Un header per linea"
+        },
+        "fb831f965a1e3f3ee3af2b3c2de8be12": {
+            "text": "="
+        },
+        "9e1c856f12b2e466d069760198b916d1": {
+            "text": "Imposta l'user agent utilizzato quando la connessione avviene attraverso un proxy HTTP"
+        },
+        "009deb37fd917675f32d69efa5650da2": {
+            "text": "Test impostazioni"
+        },
+        "0860605c61c9ab5e1bb3af647ec27a34": {
+            "text": "Testa impostazioni ora."
+        },
+        "f95d4bb779d858eca4efd09c3c7daccc": {
+            "text": "Successo! Le impostazioni SMTP sembrano funzionare correttamente."
+        },
+        "eef39dd16c8872dbbed990041827c45a": {
+            "text": "Le impostazioni SMTP non funzionano."
+        },
+        "ba7b7da7852a3fa283520f6c02efbacc": {
+            "text": "="
+        }
+    }
+}

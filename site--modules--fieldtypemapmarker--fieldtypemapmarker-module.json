@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/FieldtypeMapMarker\/FieldtypeMapMarker.module",
+    "textdomain": "site--modules--fieldtypemapmarker--fieldtypemapmarker-module",
+    "translations": {
+        "eb91e92ac80aede8decb1ab5f6b366cb": {
+            "text": "Chiave API Google Maps"
+        },
+        "6010a3654ddcad592d9573ae384a832f": {
+            "text": "[Clicca qui](%s) per le istruzioni su come ottenere una chiave API da Google."
+        }
+    }
+}

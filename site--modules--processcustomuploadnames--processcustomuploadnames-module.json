@@ -1,0 +1,12 @@
+{
+    "file": "site\/modules\/ProcessCustomUploadNames\/ProcessCustomUploadNames.module",
+    "textdomain": "site--modules--processcustomuploadnames--processcustomuploadnames-module",
+    "translations": {
+        "71270851cae94a441d05dbe22599f3d4": {
+            "text": "Nomi personalizzati per i file caricati"
+        },
+        "193def347362ab0ca44b3167a545687d": {
+            "text": "Rinomina automaticamente file\/immagini caricate in base ad un formato configurabile"
+        }
+    }
+}

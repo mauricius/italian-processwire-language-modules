@@ -1,0 +1,81 @@
+{
+    "file": "site\/modules\/AllInOneMinify\/AllInOneMinify.module",
+    "textdomain": "site--modules--allinoneminify--allinoneminify-module",
+    "translations": {
+        "6a9e8db21f3a8bc0b84783e91c30e54a": {
+            "text": "AIOM+ (All in One Minify) per CSS, LESS, JS e HTML"
+        },
+        "fa9d2b486bbe222cfa3087ca4fb17170": {
+            "text": "AIOM+ (All in One Minify) \u00e8 un modulo per migliorare le performance del tuo sito. Con una semplice funzione Fogli di stile, LESS e Javascript file posso essere analizzati, minimizzati e combinati in un unico file. Questo riduce le richieste al server, il tempo di caricamento e minimizza il traffico. In aggiunta, il codice HTML generato pu\u00f2 essere minimizzato e tutti i file generati possono essere caricati attraverso un dominio senza cookie (domain sharding)"
+        },
+        "a5ec3ba6faa6b52ec209563920157e05": {
+            "text": "Prefisso stili"
+        },
+        "43eabf0e7da34dfecd90f738386661c8": {
+            "text": "Il prefisso del file di stile generato e combinato. Permessi caratteri alfanumerici come \"A-Z, 0-9 e _ -\"."
+        },
+        "9e071127a0ca12411ce44b0a2184d5f6": {
+            "text": "Prefisso Javascript"
+        },
+        "e4b6d4087113781f62658dc134404871": {
+            "text": "Il prefisso del file javascript generato e combinato. Permessi caratteri alfanumerici come \"A-Z, 0-9 e _ -\"."
+        },
+        "1a10be3692cec335c74387f33221a6fa": {
+            "text": "="
+        },
+        "d5a8953cd541cfc70bde07d49bd4d2a2": {
+            "text": "Il tempo massimo di vita dei file cache espresso in secondi. Minimo 60 secondi, massimo 31536000 secondi (1 anno)."
+        },
+        "8565ce787836f7fef358814cfbecec22": {
+            "text": "Minifica HTML"
+        },
+        "a9b38380c06bdcc556ac51fab52ed6de": {
+            "text": "Abilita questa opzione, in modo da rimuovere spazi e commenti non necessari dal codice HTML."
+        },
+        "1261d694c7fc8416a13c5b8ab4814e9a": {
+            "text": "Modalit\u00e0 sviluppo"
+        },
+        "f2acdc66aff19a7fd3bbcca58d4de7e9": {
+            "text": "Abilit\u00e0 la modalit\u00e0 di sviluppo per prevenire il caching del browser e per non minimizzare i file."
+        },
+        "e9ae13b7739c761d9d715d7c70be3e64": {
+            "text": "Permetti l'accesso alle Directory"
+        },
+        "c415bd48020b0cd393f59504caf177d6": {
+            "text": "Abilita questa opzione per permettere l'attraversamento delle directory in modo da aggiungere file al di fuori delle cartelle template. (..\/)"
+        },
+        "0ee2d830dad93f66593ed0d43f24dc89": {
+            "text": "Controllo cache"
+        },
+        "7542ba40c697bd2ce640753093e28c6c": {
+            "text": "Qui puoi eliminare tutti i file in cache."
+        },
+        "c25f0cd549bb26c4aa3087b2ead8fee3": {
+            "text": "File in cache: %s | Spazio utilizzato: %s"
+        },
+        "45d5ca8790f94d5d5d2d6eb2da64f906": {
+            "text": "Svuota cache"
+        },
+        "b35ec9e09ac75a5f8c6076199dd064d3": {
+            "text": "="
+        },
+        "24a8c79ff4b079e0403f6e55b8a53f81": {
+            "text": "Fogli di stile e file javascript possono essere resi disponibili attraverso un secondo sottodominio (download paralleli e dominio senza cookie), in modo da velocizzare il download. Il secondo sottodominio (ad es. static.mysite.com) deve comunque puntare alla directory radice di ProcessWire. Lasciare il campo vuoto per disabilitare questa opzione."
+        },
+        "574216fe5236e883dac218bea25ba9aa": {
+            "text": "="
+        },
+        "7ad6dd9b84c1ad0c66a0c45b7080fc3a": {
+            "text": "Come usare AIOM+"
+        },
+        "77be1f11c2493d3e7685f18e169de4c1": {
+            "text": "Breve introduzione del modulo e come utilizzarlo. La documentazione completa si trova qui: %s"
+        },
+        "a65954172468513b90729c99ada0cfe4": {
+            "text": "Consigli per le performance"
+        },
+        "e57e18ff31fa987dcc93356a3a1865c1": {
+            "text": "Consigli su come puoi migliorare ulteriormente le performance della tua pagina e cosa devi considerare se usi domain sharding."
+        }
+    }
+}

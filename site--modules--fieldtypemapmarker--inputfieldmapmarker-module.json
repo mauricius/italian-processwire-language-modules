@@ -1,0 +1,69 @@
+{
+    "file": "site\/modules\/FieldtypeMapMarker\/InputfieldMapMarker.module",
+    "textdomain": "site--modules--fieldtypemapmarker--inputfieldmapmarker-module",
+    "translations": {
+        "dd7bf230fde8d4836917806aff6a6b27": {
+            "text": "Indirizzo"
+        },
+        "3b0eb7469ba9c95f3a05c4cef1f6aac4": {
+            "text": "Latitudine"
+        },
+        "9b4dabc50f0b8ccba1c8981831abdad8": {
+            "text": "Longitudine"
+        },
+        "b333c623973eb4e9a60f40b2837a756e": {
+            "text": "Geocodifica?"
+        },
+        "4252b72e6ebcd4d4b4c2e46a786f03d2": {
+            "text": "="
+        },
+        "c8677ddf77587fd180ab240e3b620ee6": {
+            "text": "Inserisci una chiave per le API di Google Maps nelle impostazioni del modulo FieldtypeMapMarker"
+        },
+        "3f84f2b44d5dfbb94a4ab73cafd77fdd": {
+            "text": "Indirizzo di default"
+        },
+        "80b830cf2f8e4d13500b0516083f29d8": {
+            "text": "Questo verr\u00e0 geocodificato per diventare il punto iniziale della mappa."
+        },
+        "df302916b5705665e09390b09baf54e2": {
+            "text": "Quando modifichi l'indirizzo di default, lascia i campi Latitudine e Longitudine vuoti, in modo da forzare la geocodifica del nuovo indirizzo."
+        },
+        "88e471a8f43ac47ccbd14da0f8378a91": {
+            "text": "Il tuo indirizzo di default \u00e8 stato geocodificato. Salva ancora una volta per confermare latitudine e longitudine."
+        },
+        "d7189c434a4672bc4be1b077b527d40d": {
+            "text": "Latitudine di default"
+        },
+        "7efdb53f0b5ed6031c52f4e72f52348a": {
+            "text": "Longitudine di default"
+        },
+        "f71c91b7da2496c2a02a5f18d0e985a6": {
+            "text": "Tipologia mappa di default"
+        },
+        "fb1b6e23a3767d2a31ef7899e6dd3f1e": {
+            "text": "Ibrida"
+        },
+        "40be43aca96bb198df1d735293dc50b9": {
+            "text": "Stradale"
+        },
+        "c2b5e73361a4bf9d26a73413d0abee5e": {
+            "text": "Satellitare"
+        },
+        "4001defc085d5daf907c1a95fa0c38bd": {
+            "text": "Altezza mappa (in pixel)"
+        },
+        "30c4513b55190a2875d6180b79798d20": {
+            "text": "Zoom di default"
+        },
+        "c67053bb43cb1d18d7d2076e5bd79268": {
+            "text": "Inserisci un valore tra 1 e 23. Il livello di zoom pi\u00f9 elevato tipicamente \u00e8 tra 19 e 23, in base al luogo visualizzato e alla quantit\u00e0 di dati che dispone Google."
+        },
+        "87f83506dee160df49b8d3ca189246af": {
+            "text": "Note API"
+        },
+        "4000a84d8cfcaa12226370c3ede2941b": {
+            "text": "Puoi accedere ai valori individuali per questo campo utilizzando i seguenti nei tuoi template:"
+        }
+    }
+}

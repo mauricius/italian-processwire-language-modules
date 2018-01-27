@@ -1,0 +1,171 @@
+{
+    "file": "site\/modules\/LoginRegister\/LoginRegister.module",
+    "textdomain": "site--modules--loginregister--loginregister-module",
+    "translations": {
+        "fb88f3c3e2b1f9d03f3a80a738ae962e": {
+            "text": "Il nome utente deve essere almeno lungo 3 caratteri o pi\u00f9"
+        },
+        "23b26c68ca84a6fadb41d137c31aa4b3": {
+            "text": "Il nome utente non viene validato, sceglierne un altro."
+        },
+        "046c64990a15e5597875e0fee60b8dcd": {
+            "text": "Il nome utente \u00e8 gi\u00e0 in uso, sceglierne un altro."
+        },
+        "6434953cabdeaefb6b7ceec15cf40966": {
+            "text": "Il nome utente non \u00e8 permesso, sceglierne un altro."
+        },
+        "0d5dfb1efbd4144f5e7c8d80df1d09f1": {
+            "text": "Ti sei disconnesso"
+        },
+        "f735820937d279e23e1d44b7afb0bbfb": {
+            "text": "Grazie, il tuo account \u00e8 stato confermato e adesso hai eseguito il login"
+        },
+        "0589752872f3e3d4c81aa3a90cea14f0": {
+            "text": "Benvenuto %s"
+        },
+        "c45b3f6444feaddf0b0fe0112bb2d81e": {
+            "text": "Impossibile completare la conferma, prova a registrarti nuovamente e riprova"
+        },
+        "dfd87bd34b4599aaaef6d0f2c8b6e3d7": {
+            "text": "Modifica profilo"
+        },
+        "0323de4f66a1700e2173e9bcdce02715": {
+            "text": "="
+        },
+        "9f9a068152a8c8ef9cb6eb8de34dfbd0": {
+            "text": "Impossibile effettuare il login perch\u00e9 uno o pi\u00f9 account utilizzano questo indirizzo email."
+        },
+        "ccc025f2ee3f90d245d7246748065452": {
+            "text": "Login effettuato per %s"
+        },
+        "48649d8c2d04aa439d10bc45eaba8f75": {
+            "text": "Login fallito"
+        },
+        "99dea78007133396a7b8ed70578ac6ae": {
+            "text": "="
+        },
+        "ce8ae9da5b7cd6c3df2929543a9af92d": {
+            "text": "="
+        },
+        "f6039d44b29456b20f8f373155ae4973": {
+            "text": "Nome utente"
+        },
+        "dc647eb65e6711e155375218212b3964": {
+            "text": "="
+        },
+        "01a569ddc6cf67ddec2a683f0a5f5956": {
+            "text": "Password dimenticata?"
+        },
+        "d45294caa04dc2a59a6a9779ecb261e1": {
+            "text": "Registrati per un account"
+        },
+        "c936c0db0aa270c7aff9662323caff3c": {
+            "text": "Login con Facebook"
+        },
+        "7ccf75fa7498152efe4e152833455c67": {
+            "text": "Nome login"
+        },
+        "88eecfb1f5b2289c2b4dd6f6a6566762": {
+            "text": "Usa lettere, numeri, trattini o unserscore. No spazi."
+        },
+        "0be8406951cdfda82f00f79328cf4efc": {
+            "text": "Commenta"
+        },
+        "0ba7583639a274c434bbe6ef797115a4": {
+            "text": "Registrati"
+        },
+        "f60c8fcfe7f4a7402e8e47d88a5357f6": {
+            "text": "L'indirizzo email \u00e8 gi\u00e0 in uso, sceglierne un altro."
+        },
+        "66a1d7439d0113b6fb58903eeb60df0e": {
+            "text": "Conferma account a %s"
+        },
+        "0240e581caf6b919b48541e641b2ad08": {
+            "text": "Clicca il link qui sotto per confermare il tuo account su %s"
+        },
+        "c26076368194d5bb3a2e49e72715a9eb": {
+            "text": "Codice di conferma:"
+        },
+        "23193da670cadc6dc8768225b5cce7ab": {
+            "text": "Clicca per confermare"
+        },
+        "1149a2e8a1e516a6092e9ac259141756": {
+            "text": "Grazie, un codice di conferma ti \u00e8 appena stato inviato per email."
+        },
+        "4c1c39bf752f532ed6ed551ce93afc81": {
+            "text": "Quando riceverai l'email, clicca il link che contiene, o incolla il codice di conferma."
+        },
+        "5750c1e05728fd532a018ac415b55f87": {
+            "text": "Codice di conferma"
+        },
+        "700f08e43a1a17d018812444cc9391e9": {
+            "text": "Aggiornato: %s"
+        },
+        "1c92a3177337ccdc3405f21bb532216f": {
+            "text": "Impossibile cambiare il nuovo indirizzo email"
+        },
+        "f961f478f3d27cf6bc48d6bed7c46840": {
+            "text": "L'indirizzo email \u00e8 gi\u00e0 in uso, pertanto \u00e8 stato ripristinato il precedente."
+        },
+        "566b10ba45f58b5058f10242cddedcb9": {
+            "text": "Profilo salvato"
+        },
+        "10915fcd7ba466bd49e8afd595000a74": {
+            "text": "Funzionalit\u00e0 da utilizzare"
+        },
+        "8e756404c01867410817b8601522e88c": {
+            "text": "Form login"
+        },
+        "886eedad5ac6e33f857835096f2f6d6d": {
+            "text": "Form di registrazione nuovo utente"
+        },
+        "028017f232c0d01e11501fc48b3d9275": {
+            "text": "Modifica form profilo (per utenti loggati)"
+        },
+        "db6b4fe298d2e5d9eee0cbf43cedd077": {
+            "text": "Utilizza l'indirizzo email per il login anzich\u00e9 il nome utente"
+        },
+        "b3b1903667e1c5486482baea0787c636": {
+            "text": "Reset password"
+        },
+        "317eac6699b8710914206f83bd037246": {
+            "text": "*Richiede il modulo \"ProcessForgotPassword\""
+        },
+        "8ca240c4782e3b58dddbeda48a77724a": {
+            "text": "Clicca per installare"
+        },
+        "f3dc0a4bbf81874a79595e84c49d4a46": {
+            "text": "Campi del form di registrazione"
+        },
+        "3ff81a1559b76bea3acc105594a94d23": {
+            "text": "Se non vedi tutti i campi devi aggiungerli prima al template \"user\" e poi ritornare in questa pagina."
+        },
+        "8dee54c9d31300cbccc7ebfc4e423655": {
+            "text": "Solo campi standard possono essere utilizzati nel front-end (no file, repeaters, richtext, multi-valore, campi combinati, ecc.)"
+        },
+        "9bfb6e6af6e6793bfa9387e728187c87": {
+            "text": "(richiesto)"
+        },
+        "027feff8e728f63f474ff58eb8229580": {
+            "text": "Campi form profilo"
+        },
+        "9f5f0fd182c12df3dd16ed86de3a5a76": {
+            "text": "Come utilizzare + documentazione"
+        },
+        "8e416a7791af161b3d2baaa0fad3d6da": {
+            "text": "Ruoli da aggiungere ai nuovi utenti registrati"
+        },
+        "ecde269490c8276525bc19b7f92c2a74": {
+            "text": "Il ruolo \"guest\" di default. Ruoli con il permesso page-edit non sono visualizzati."
+        },
+        "deafa013b151327b99dc4953aa9385d7": {
+            "text": "Inserisci il codice seguente dove vuoi che venga visualizzato l'output del form di login\/registrazione\/profilo nel tuo template."
+        },
+        "c7b198f8fe5531d5e7bc771e4c9f2987": {
+            "text": "Idealmente dovrebbe essere inserito nell'area principale o body."
+        },
+        "16b505af72e639e2af2ca358f708ebd8": {
+            "text": "Visualizza la [documentazione](http:\/\/rexolution.test\/admin\/setup\/language-translator\/edit\/%s) per ulteriori dettagli."
+        }
+    }
+}

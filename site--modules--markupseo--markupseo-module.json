@@ -1,0 +1,243 @@
+{
+    "file": "site\/modules\/MarkupSEO\/MarkupSEO.module",
+    "textdomain": "site--modules--markupseo--markupseo-module",
+    "translations": {
+        "a861d8a3d6aef574c134e7f346f8040f": {
+            "text": "Anteprima Google"
+        },
+        "0211c8f752081cfb67681beef0ade861": {
+            "text": "Si aggiorna mentre scrivi nel campo titolo o descrizione"
+        },
+        "d88946b678e4c2f251d4e292e8142291": {
+            "text": "="
+        },
+        "c826ef451257bcf894c86984ec37cc7d": {
+            "text": "Chiudi un insieme di campi aperto"
+        },
+        "b78a3223503896721cca1303f776159b": {
+            "text": "Titolo"
+        },
+        "bc179f7bc72ca0bbc245f35eb0d5311d": {
+            "text": "Una buona lunghezza per il titolo \u00e8 60 caratteri."
+        },
+        "867343577fa1f33caa632a19543bd252": {
+            "text": "="
+        },
+        "b5a7adde1af5c87d7fd797b6245c2a39": {
+            "text": "Descrizione"
+        },
+        "59b3dbbd9332a5fbd8e68ddab075289a": {
+            "text": "Una buona lunghezza per la descrizione \u00e8 160 caratteri."
+        },
+        "be53a0541a6d36f6ecb879fa2c584b08": {
+            "text": "Immagine"
+        },
+        "7e13a6d24a41b5421752a5bb7b5b3313": {
+            "text": "Inserisci l'URL (compreso \"http:\/\/...\") per l'immagine di anteprima."
+        },
+        "7cc0feec8680b02473a5f31ad7ee4ff4": {
+            "text": "="
+        },
+        "1c4c78cdd287d5753cbadb81dec8acf9": {
+            "text": "L'URL dovrebbe includere \"http:\/\/...\"."
+        },
+        "90589c47f06eb971d548591f23c285af": {
+            "text": "Personalizzato"
+        },
+        "9d452988ae6c781ca5801252e83e20a7": {
+            "text": "Se vuoi aggiungere altri meta tag, puoi farlo qui."
+        },
+        "828f7421207abbf5687a787218b647ef": {
+            "text": "Utilizza il seguente schema: nome := contenuto. Un tag per linea. Caratteri speciali sono permessi solo nel contenuto e verranno codificati in HTML."
+        },
+        "000fecfcd9ed8119c3841ca87d49d291": {
+            "text": "="
+        },
+        "465c595582d5041745c9b5f488510a17": {
+            "text": "L'impostazione robots indicher\u00e0 ai motori di ricerca quali dati possono includere\/indicizzare"
+        },
+        "b54c6c25df94cb4c6925f235e4ae6941": {
+            "text": "Questo sovrascrive le impostazioni globali del modulo per questa pagina."
+        },
+        "8a86fc25be700bc5c4d3fee60f85c99e": {
+            "text": "La soluzione SEO tutta-in-uno per ProcessWire."
+        },
+        "f1ec0dca0fd889b5ded02899a497b636": {
+            "text": "Template con la tab SEO"
+        },
+        "615af84c4c1d84e9e51a05741b68b958": {
+            "text": "Scegli i template che avranno una tab SEO."
+        },
+        "aaac49aef7f0190ee44b3d615a329e19": {
+            "text": "Fai attenzione con questo campo. Se rimuovi un valore tutti i campi \"seo_*\" verranno eliminati (inclusi i dati)."
+        },
+        "a517747c3d12f99244ae598910d979c5": {
+            "text": "Autore"
+        },
+        "668445f09da337d276dc852bb6a0dbb3": {
+            "text": "Nome sito"
+        },
+        "00400891cda951bb3a6640c6747229c4": {
+            "text": "Se vuoti, utilizzare i valori del padre?"
+        },
+        "21c63637a424234056c8fa585e1e8b66": {
+            "text": "I valori del padre verranno usati come default se non definisci dati meta per la pagina, lasci i seguenti campi vuoti e non scegli i campi smart."
+        },
+        "b30ce1a97a08cacf47085d23bb22f94f": {
+            "text": "Titolo Smart"
+        },
+        "dad3be0ce8bb33a402b8e2ea227a9d9f": {
+            "text": "Questi campi verranno utilizzati (in questo ordine specifico) se non riempi il campo titolo"
+        },
+        "ff184271cae6617d7e79b2c1ff6b5980": {
+            "text": "Keywords Smart"
+        },
+        "d2e00a58f78f4ed9dd1f880dca842e44": {
+            "text": "Questi campi verranno utilizzati (in questo ordine specifico) se non riempi il campo keywords"
+        },
+        "d50fd124f313155978573948fbf5dc7c": {
+            "text": "Descrizione Smart"
+        },
+        "e720a0fc13b7e805288790bce600af83": {
+            "text": "Questi campi verranno utilizzati (in questo ordine specifico) se non riempi il campo descrizione"
+        },
+        "9945828c83b90483f1e312bba5830104": {
+            "text": "Immagine Smart"
+        },
+        "f41f4598ec27d30bc29daed5e1101554": {
+            "text": "Verr\u00e0 utilizzata la prima immagine del campo specificato."
+        },
+        "0c21f0be6bc0d9e2fa13c59acfa65223": {
+            "text": "Formato titolo"
+        },
+        "58857f73432981107e76cf2dac28473c": {
+            "text": "Usa questo campo per definire il formato titolo. Se lasciato vuoto il tag <title> non verr\u00e0 incluso."
+        },
+        "0b7e69c0d6486bdca4c03e40375940ce": {
+            "text": "Puoi usare: {title}, {sitename}"
+        },
+        "7d0cf56e6b5768a239a7b8a2b69a9c81": {
+            "text": "Protocollo per i link canonici"
+        },
+        "ff03e461fed6ecf87fbfe6411b9b09f0": {
+            "text": "Scegli se vuoi usare sempre \"https\" o \"http\" oppure se vuoi rilevarlo in automatico."
+        },
+        "739f9b5d0d4d31b8dda3096460a18ec5": {
+            "text": "La rilevazione automatica controller\u00e0 se $config->https \u00e8 impostato a vero."
+        },
+        "a40eb771de0ef255193f314c41f8b7b8": {
+            "text": "Applica limiti rigidi?"
+        },
+        "d53339a4f27381e1d7ae1ecec4a3ee5e": {
+            "text": "Quest'impostazione determina limiti rigidi per i campi che ne possiedono. Se selezionata previene l'inserimento di un numero di caratteri pi\u00f9 elevato di quelli consentiti."
+        },
+        "9ec72c933cb3c8d23d67158e63b0cbd8": {
+            "text": "Limite di caratteri per il titolo SEO"
+        },
+        "3508542061015fd471ca3c230039586e": {
+            "text": "Il limite di caratteri per il titolo SEO, 60 \u00e8 il valore raccomandato."
+        },
+        "5a38448b5ff8b5df1cc72f7adb10739b": {
+            "text": "Limite di caratteri per la descrizione SEO"
+        },
+        "d3b8de0053a5577d9feec0ad61066bcf": {
+            "text": "Il limite di caratteri per la descrizione SEO, 160 \u00e8 il valore raccomandato."
+        },
+        "8c99bfe08123f95bce5f7a055bf15dea": {
+            "text": "Includi Generator?"
+        },
+        "e3ef355daa5e49a053a95f0782f6f994": {
+            "text": "Questo includer\u00e0 un tag meta chiamato \"generator\" per mostrare che questo sito \u00e8 stato creato in \"ProcessWire\"."
+        },
+        "26f21774659e7b32b433bcdc661b4852": {
+            "text": "Includi Open Graph (base)?"
+        },
+        "7ca601899d093548db26094b32b012d4": {
+            "text": "I meta tag Open Graph sono preferiti da Facebook e svariati altri siti."
+        },
+        "b6bf49d790fafd3c89ef2897e87cabe1": {
+            "text": "Includi Twitter Cards (base)?"
+        },
+        "f6a4b529e5e1b9488ecdab86e8582140": {
+            "text": "Questo aiuter\u00e0 Twitter ad estrarre i dati giusti per il tuo sito."
+        },
+        "b583858e9d8e3e6790487c5edb6507fc": {
+            "text": "Username Twitter"
+        },
+        "3e9ec93ffbb42dd8b9c01e1878afb33a": {
+            "text": "Il tuo username Twitter (senza \"@\") \u00e8 necessario per l'opzione \"includi Twitter\"."
+        },
+        "4c3880bb027f159e801041b1021e88e8": {
+            "text": "Metodo"
+        },
+        "70232e78b64d7bb86dd4e5a0ef9eb9e2": {
+            "text": "Vuoi inserire automaticamente il codice nella sezione <head> del tuo sito?"
+        },
+        "bf6f63550c0344e1a6716f78e172c96b": {
+            "text": "Automaticamente"
+        },
+        "826c19d01b527f2701cc3460b9c889de": {
+            "text": "Manualmente"
+        },
+        "4f7fa6d3c658fbc39cbd71708b930b81": {
+            "text": "Aggiungi uno spazio prima dei tag?"
+        },
+        "d989be83f063dd7222f0b92e1794f405": {
+            "text": "Questo aggiunger\u00e0 un piccolo spazio (indentato di una tab) prima dei meta tag nella versione \"renderizzata\". Ottimo se usi la modalit\u00e0 di inserimento automatica."
+        },
+        "06ba2bc280e5497a86716f2bac565751": {
+            "text": "Codice Google Analytics"
+        },
+        "084763589df0027e2166d25fd54a188b": {
+            "text": "Il Codice Google Analytics verr\u00e0 inserito se questo campo verr\u00e0 popolato."
+        },
+        "016d5b3a44203ff48093cbd74c83fb38": {
+            "text": "Come trovare il tuo codice: https:\/\/support.google.com\/analytics\/answer\/1008080. Generalmente ha questo formato: UA-XXXXXXX-X."
+        },
+        "ac5f220d014dd955184811170693c086": {
+            "text": "Google Analytics: Anonimizza IP?"
+        },
+        "ba545e185d55dc3e99c84d9f2260ad20": {
+            "text": "In alcuni paesi (come la Germania) l'anonimizzazione degli IP dei visitatori in Google Analytics \u00e8 un impostazione obbligatoria per ragioni legali."
+        },
+        "1fa5d96137bd1d00dbc15669cd4a441b": {
+            "text": "URL Piwik Analytics"
+        },
+        "67ddfcae4ff9f690bd57e0f4f06524c8": {
+            "text": "Il Codice Piwik verr\u00e0 inserito se entrambi i campi Piwik verranno popolati."
+        },
+        "cf28b0088e8c6a61d7f1ba8f895d1582": {
+            "text": "Url senza http:\/\/ o https:\/\/"
+        },
+        "98c9d8e1332025fda41b0f5f23302ab2": {
+            "text": "Piwik Analytics IDSite"
+        },
+        "75543f6b938b186655cd01b16123f3a5": {
+            "text": "Multilingua"
+        },
+        "8a79f34ca78616c9ba9d7fd1c1251690": {
+            "text": "Se il tuo sito utilizza pi\u00f9 lingue puoi usare anche i campi SEO in pi\u00f9 lingue. Per questo scopo devi cambiare il tipo dei campi SEO manualmente:"
+        },
+        "7c5f21b45f3a608bec8ee06d01babb6b": {
+            "text": "1. Vai in \"Installazione > Campi\". Ci sono svariati campi con lo schema \"seo_*\". Clicca sul campo che vuoi utilizzare con pi\u00f9 lingue."
+        },
+        "b6c85d255479d6509af1b692e2876c46": {
+            "text": "2. Cambia il \"Tipo\" per esempio da \"Text\" a \"TextLanguage\" e clicca \"Salva\"."
+        },
+        "5259ae4afb5996ff48788b2fa720114c": {
+            "text": "Raccomandazioni"
+        },
+        "6b9bf4dcd8852db2aa6925e6d530589e": {
+            "text": "Per una migliore esperienza SEO ci sono alcuni moduli che posso raccomandare:"
+        },
+        "d6f27cd9df86546923c566aa58b83a6e": {
+            "text": "Supporta lo sviluppo"
+        },
+        "2df492d58fd6b83c66ae3e2a9eda0249": {
+            "text": "Questo \u00e8 e rester\u00e0 un modulo gratuito e open-source. Se ti piace e vuoi supportare lo sviluppo puoi usare questo pulsante:"
+        },
+        "b24ea0398f423077ce7fafe89bb79169": {
+            "text": "caratteri usati"
+        }
+    }
+}
