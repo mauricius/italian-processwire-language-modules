@@ -1,0 +1,96 @@
+{
+    "file": "site\/modules\/ProtectedMode\/ProtectedMode.module",
+    "textdomain": "site--modules--protectedmode--protectedmode-module",
+    "translations": {
+        "03db30d7b14c0768b9a992436727cd9a": {
+            "text": "Login fallito, ritenta!"
+        },
+        "49cc8e6220245b65cd7d20fc6ccc74f5": {
+            "text": "Istruzioni"
+        },
+        "e14ff3569aa0cf76f1069e3dd5b22c45": {
+            "text": "Modalit\u00e0 protetta \/ manutenzione"
+        },
+        "3c0851fc428d46b43f338c3c7594397e": {
+            "text": "Se abilitata, solo gli utenti connessi potranno visualizzare il sito."
+        },
+        "716a1ecbba8df90d9fdb2796c3f10791": {
+            "text": "Per limitare l'accesso a ruoli specifici, selezionali qui.\\nPer permettere l'accesso a tutti i ruoli, non selezionare niente."
+        },
+        "8d334bf7234da590ac1f19ef35d09314": {
+            "text": "NB Gli utenti con questi ruoli dovranno comunque effettuare il login per visualizzare la pagina.\\nQuesto permette di bloccare utenti con i ruoli non selezionati di visitare la pagina, anche se sono gi\u00e0 connessi."
+        },
+        "7b5bd5a9d20f919dd41dac4dcd5b4014": {
+            "text": "Invia header 503 \/ Retry-After"
+        },
+        "69f4155e08a53fe934d05f91a70fc2d6": {
+            "text": "L'header 503 (Service Temporarily Unavailable) \u00e8 raccomandato se questa protezione \/ manutenzione del sito \u00e8 temporanea."
+        },
+        "94ad575ad05e432be405083e1c3557a9": {
+            "text": "Data stimata di fine manutenzione"
+        },
+        "6ade7c89225b65dc729e2fde9e09f01f": {
+            "text": "Questo valore verr\u00e0 usato per popolare l'header \"Retry-After\"."
+        },
+        "c70ec5b31b31ecef0efd3ea40e33909f": {
+            "text": "Configurazione Avanzata"
+        },
+        "ad768d22c975efb7e29922e60f4e84a4": {
+            "text": "Formato input per il campo Data"
+        },
+        "0da1e0bdce9d5e015fe3d8ebc506ec35": {
+            "text": "Sono valide tutte le opzioni per la funzione date() di PHP, per esempio m-d-Y"
+        },
+        "8626a4738dc24507d7aae9b1e34334d9": {
+            "text": "Formato input per il campo Time"
+        },
+        "9778801ea66e7dd8ab0c67a3b5e932da": {
+            "text": "Sono valide tutte le opzioni per la funzione date() di PHP, per esempio H:i"
+        },
+        "31b1d158de3080688ef866f045c4f675": {
+            "text": "Incrementa automaticamente il valore"
+        },
+        "bf16634819ec8c7ed27befa97d54d5df": {
+            "text": "Se \u00e8 stato raggiunta la data stimata per la fine della modalit\u00e0 di manutenzione, ma questa \u00e8 ancora attiva, aggiungi il numero di minuti alla data corrente."
+        },
+        "b3dd2c9c1ffecc51c5a189f2d6c9d4c6": {
+            "text": "Messaggio di login"
+        },
+        "63f77493e85496f08c0cc32ad97ed4f2": {
+            "text": "Questo messaggio verr\u00e0 visualizzato agli utenti quando provano a visualizzare il sito."
+        },
+        "dedbee5363da01d7acaa4b5129221823": {
+            "text": "Se utilizzi questo modulo per la modalit\u00e0 di manutenzione, puoi scrivere un messaggio simile al seguente: \"Questo sito \u00e8 in manutenzione! Dovrebbe tornare disponibile in data: {{RETRYAFTER}}<br \/>Se hai un account puoi loggarti comunque al sito.\""
+        },
+        "3bd05ef9c2f4e903ee4c98f481797d41": {
+            "text": "Messaggio di errore"
+        },
+        "7d3fac5f0b2a7bc572761c0f2333659d": {
+            "text": "Questo messaggio verr\u00e0 mostrato agli utenti se il loro ruolo non \u00e8 permesso."
+        },
+        "9e34d6981b9a422f2fd0210144d63de0": {
+            "text": "="
+        },
+        "721f3c7962353e8866395d147899c322": {
+            "text": "Di default \u00e8 \"Username\"."
+        },
+        "113ed173b827300cce65fe17617d6aad": {
+            "text": "="
+        },
+        "67460a0cf4dc57e23c4e86a90cf1d6a9": {
+            "text": "Di default \u00e8 \"Password\"."
+        },
+        "c7fa646142f83c8be503faaecf90ed19": {
+            "text": "Testo per il pulsante di login"
+        },
+        "822eb0388803913923d190e76e1598f6": {
+            "text": "Di default \u00e8 \"Login\"."
+        },
+        "2c56c360580420d293172f42d85dfbed": {
+            "text": "="
+        },
+        "e4018b7ed8e6962fa8a68a1e4a195e85": {
+            "text": "Qui puoi cambiare lo stile del form di login."
+        }
+    }
+}

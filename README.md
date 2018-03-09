@@ -33,6 +33,12 @@ Italian translation files for the most used ProcessWire modules.
 
 * [site--modules--processcustomuploadnames--processcustomuploadnames-module.json](site--modules--processcustomuploadnames--processcustomuploadnames-module.json)
 
+#### ProtectedMode
+
+[GitHub](https://github.com/adrianbj/ProtectedMode) - [Module Page](https://modules.processwire.com/modules/protected-mode/)
+
+* [site--modules--protectedmode--protectedmode-module.json](site--modules--protectedmode--protectedmode-module.json)
+
 #### WireMailSmtp
 
 [GitHub](https://github.com/horst-n/WireMailSmtp) - [Module Page](https://modules.processwire.com/modules/wire-mail-smtp/)
